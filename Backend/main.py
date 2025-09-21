@@ -34,6 +34,7 @@ app = FastAPI(
     description="An API for interacting with a Retrieval-Augmented Generation chatbot powered by Google Gemini.",
     version="1.0.0",
 )
+
 # --- CORS Configuration ---
 origins = [
     "http://localhost:3000",

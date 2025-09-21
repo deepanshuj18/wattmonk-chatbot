@@ -1,0 +1,25 @@
+# requirements.txt
+
+# For Google's Generative AI API (Gemini and embeddings)
+google-generativeai
+
+# Vector database for storing and retrieving document embeddings
+chromadb
+
+# Required by ChromaDB and for numerical operations
+numpy
+
+# For extracting text from PDF files
+PyMuPDF
+
+# The main web framework
+fastapi
+
+# The ASGI server to run FastAPI
+uvicorn[standard]
+
+# Required for handling file uploads in FastAPI
+python-multipart
+
+# --- New addition for .env file support ---
+python-dotenv

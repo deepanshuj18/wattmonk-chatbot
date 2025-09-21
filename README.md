@@ -34,7 +34,7 @@ rag_chatbot/
 │   └── rate_limiter.py     # API rate limiting
 └── requirements.txt        # Dependencies
 ```
-##  ![wattmonk Chatbot Screenshot](https://raw.githubusercontent.com/<your-username>/<repo-name>/main/running_project.png)
+##  ![wattmonk Chatbot Screenshot](https://github.com/deepanshuj18/wattmonk-chatbot/blob/main/IMG_20250921_192610_930.jpg)
  
 ## Prerequisites
 
